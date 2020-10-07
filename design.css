@@ -182,6 +182,11 @@ textarea {
   }
 }
 
+.forgot {
+margin-top:-20px;
+text-align:right;
+} 
+
 .button-block {
   display:block;
   width:100%;
