@@ -137,10 +137,6 @@ input, textarea {
   }
 }
 
-textarea {
-  border:2px solid $gray-light;
-  resize: vertical;
-}
 
 .field-wrap {
   position:relative;
