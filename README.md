@@ -1,2 +1,1 @@
-# SignUpPage
-This is a page in which user can login and signup.
+Hello guys,this is a simple UI for SignUP and Login built using HTML,CSS with love.
